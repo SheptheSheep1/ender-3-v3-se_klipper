@@ -6,7 +6,7 @@
 ### Tips
 ##### Bed Mesh
 - If your bed mesh has a lot of variance, meaning more than ~0.2mm, then getting it to have less variance will help a lot with first layers and general print quality
-- In order to decrease variance run a 5x5 bed mesh when heated and locate your high points and sand or file the necessary spacer down using the indicated measurement you determine using your bed mesh low points and check before and after with calipers that can measure in the thousanths of an inch or hundreth of a millimeter
+- In order to decrease variance run a 5x5 bed mesh when heated and locate your high points and sand or file the necessary spacer down using the indicated measurement you determine using your bed mesh low points and check before and after with calipers that can measure in the thousanths of an inch or hundredth of a millimeter
 - Then, try heating the bed, running a bed mesh again, and repeating the above stated steps until you are satisfied with the variance across the bed
 - If you have points that are much lower than others, some users have created spacers that can be put underneath the spacers to space them up, such as [IAmAnEngineer](https://www.printables.com/model/733411-ender-3-v3-seke-bed-leveling-shims) on Printables.com, I would recommend printing these in PETG, although I have had no need to use them
 - Make sure your x-axis gantry is even, [Creality Guide](https://www.crealitycloud.com/post-detail/65015353ae72d153c2ef4e89)
